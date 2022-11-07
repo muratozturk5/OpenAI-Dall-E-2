@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/muratozturk5/OpenAI-Dall-E-2/blob/master/Screenshots/Banner.png)
+![App Screenshot](https://github.com/muratozturk5/OpenAI-Dall-E-2/blob/master/Screenshots/BannerImage.png)
 
 
 # OpenAI Dall•E AI Kotlin Mobile App
