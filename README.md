@@ -22,11 +22,11 @@ Using Tools And Components Supported By Google And By Most Of The Android Develo
 
 ## 🛠 Setup
 
-- Step 1. Get An API Key
+- **Step 1. Get An API Key**
 
 You can get API key from here  [https://beta.openai.com/account/api-keys](https://beta.openai.com/account/api-keys).
 
-- Step 2. Add it in your project
+- **Step 2. Add it in your project**
 
 Add the API Key in your project Constants file
 </br>
