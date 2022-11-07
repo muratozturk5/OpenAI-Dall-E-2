@@ -51,6 +51,9 @@ The Images API provides three methods for interacting with images:
 - Creating variations of an existing image
 
 ## 💲 Pricing
+Check the link for your usage [https://beta.openai.com/account/usage](https://beta.openai.com/account/usage)
+<br>
+<br>
 Check the link for current prices [https://openai.com/api/pricing](https://openai.com/api/pricing)
 <br>
 <br>
