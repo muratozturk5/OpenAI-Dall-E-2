@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OpenAI Dall•E</string>
+    <string name="generate">Generate</string>
+    <string name="prompt_hint">Prompt</string>
+    <string name="error">Error!</string>
+    <string name="enter_description">Edit the detailed description</string>
+    <string name="size_256">256 x 256</string>
+    <string name="size_512">512 x 512</string>
+    <string name="size_1024">1024 x 1024</string>
+    <string name="close">Close</string>
+    <string name="download">Download</string>
+    <string name="enter_prompt">Prompt Cant\'t Be Empty</string>
+</resources>

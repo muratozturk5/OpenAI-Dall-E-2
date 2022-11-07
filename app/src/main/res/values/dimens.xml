@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="card_elevation_small">3dp</dimen>
+    <dimen name="stroke_width_small">2dp</dimen>
+</resources>
