@@ -9,7 +9,7 @@ width="250" hspace="10" vspace="10">
 OpenAI Dall•E Application Build With Kotlin MVVM (Model - View - ViewModel) Clean Architecture, Beautiful Design UI, Smooth Animations </br>
 Using Tools And Components Supported By Google And By Most Of The Android Development Community</br></br>***Try latest Random User App apk from below 👇***
 
-[![DallE](https://img.shields.io/badge/OpenAI%20Dall%E2%80%A2E-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/muratozturk5/OpenAI-Dall-E-2/blob/master/APK/app-debug.apk)</br></br></br>
+[![DallE](https://img.shields.io/badge/OpenAI%20Dall%E2%80%A2E-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/muratozturk5/OpenAI-Dall-E-2/raw/master/APK/app-debug.apk)</br></br></br>
 
 ## 💻 Used API
 ***Live API URL Check from blow 👇 , This project is not affiliated with nor endorsed by OpenAI.***
