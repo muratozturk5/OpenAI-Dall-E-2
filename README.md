@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/muratozturk5/OpenAI-Dall-E-2/blob/master/Screenshots/Banner.png)
+![App Screenshot](https://github.com/muratozturk5/OpenAI-Dall-E-2/blob/master/Screenshots/BannerImage.png)
 
 
 # OpenAI Dall•E AI Kotlin Mobile App
@@ -9,7 +9,7 @@ width="250" hspace="10" vspace="10">
 OpenAI Dall•E Application Build With Kotlin MVVM (Model - View - ViewModel) Clean Architecture, Beautiful Design UI, Smooth Animations </br>
 Using Tools And Components Supported By Google And By Most Of The Android Development Community</br></br>***Try latest Random User App apk from below 👇***
 
-[![DallE](https://img.shields.io/badge/OpenAI%20Dall%E2%80%A2E-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/muratozturk5/OpenAI-Dall-E-2/blob/master/APK/app-debug.apk)</br></br></br>
+[![DallE](https://img.shields.io/badge/OpenAI%20Dall%E2%80%A2E-APK-brightgreen?style=for-the-badge&logo=android)](https://github.com/muratozturk5/OpenAI-Dall-E-2/raw/master/APK/app-debug.apk)</br></br></br>
 
 ## 💻 Used API
 ***Live API URL Check from blow 👇 , This project is not affiliated with nor endorsed by OpenAI.***
@@ -22,11 +22,11 @@ Using Tools And Components Supported By Google And By Most Of The Android Develo
 
 ## 🛠 Setup
 
-- Step 1. Get An API Key
+- **Step 1. Get An API Key**
 
 You can get API key from here  [https://beta.openai.com/account/api-keys](https://beta.openai.com/account/api-keys).
 
-- Step 2. Add it in your project
+- **Step 2. Add it in your project**
 
 Add the API Key in your project Constants file
 </br>
@@ -43,7 +43,9 @@ object Constants {
 
 ## 🔎 Usage
 
-- Image Generation
+**Image Generation**
+<br>
+<br>
 The Images API provides three methods for interacting with images:
 
 - Creating images from scratch based on a text prompt (This Project Contain Just This For a While...)
@@ -51,6 +53,9 @@ The Images API provides three methods for interacting with images:
 - Creating variations of an existing image
 
 ## 💲 Pricing
+Check the link for your usage [https://beta.openai.com/account/usage](https://beta.openai.com/account/usage)
+<br>
+<br>
 Check the link for current prices [https://openai.com/api/pricing](https://openai.com/api/pricing)
 <br>
 <br>
