@@ -43,7 +43,9 @@ object Constants {
 
 ## 🔎 Usage
 
-- Image Generation
+**Image Generation**
+<br>
+<br>
 The Images API provides three methods for interacting with images:
 
 - Creating images from scratch based on a text prompt (This Project Contain Just This For a While...)
