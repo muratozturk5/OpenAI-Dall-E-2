@@ -1,6 +1,6 @@
 ![App Screenshot](https://github.com/muratozturk5/OpenAI-Dall-E-2/blob/master/Screenshots/BannerImage.png)
 
-
+![](https://vbr.wocr.tk/badge?page_id=order-food-android&color=55acb7&style=for-the-badge&logo=Github)
 # OpenAI Dall•E AI Kotlin Mobile App
 
 <img src="https://github.com/muratozturk5/OpenAI-Dall-E-2/blob/master/Screenshots/logo.png" align="left"
