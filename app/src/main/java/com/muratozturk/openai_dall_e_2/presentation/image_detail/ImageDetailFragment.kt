@@ -1,7 +1,6 @@
 package com.muratozturk.openai_dall_e_2.presentation.image_detail
 
 import android.Manifest
-import android.annotation.TargetApi
 import android.app.Activity
 import android.app.AlertDialog
 import android.app.Dialog
@@ -83,7 +82,7 @@ class ImageDetailFragment : BottomSheetDialogFragment(R.layout.fragment_image_de
         }
     }
 
-    @TargetApi(Build.VERSION_CODES.M)
+
     fun askPermissions(url: String, context: Context) {
         with(viewModel)
         {
@@ -117,7 +116,7 @@ class ImageDetailFragment : BottomSheetDialogFragment(R.layout.fragment_image_de
                         arrayOf(Manifest.permission.WRITE_EXTERNAL_STORAGE),
                         Constants.MY_PERMISSIONS_REQUEST_WRITE_EXTERNAL_STORAGE
                     )
-
+                    downloadImage(url)
                 }
             } else {
                 downloadImage(url)
