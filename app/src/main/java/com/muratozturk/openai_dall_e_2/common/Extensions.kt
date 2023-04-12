@@ -35,7 +35,6 @@ fun ImageView.glideImage(url: String, isBlur: Boolean? = false) {
     if (isBlur == true) {
         Glide.with(this.context)
             .load(url)
-            .override(500, 500)
             .transition(DrawableTransitionOptions.withCrossFade())
             .apply(bitmapTransform(BlurTransformation(10, 1)))
             .diskCacheStrategy(DiskCacheStrategy.DATA)
@@ -45,7 +44,6 @@ fun ImageView.glideImage(url: String, isBlur: Boolean? = false) {
     } else {
         Glide.with(this.context)
             .load(url)
-            .override(500, 500)
             .diskCacheStrategy(DiskCacheStrategy.DATA)
             .placeholder(this.context.circularProgressDrawable())
             .error(R.drawable.ic_baseline_no_photography_24)
